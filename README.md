@@ -1,4 +1,3 @@
-# Simple NLP Parsers
+# Simple NLP Tasks
 
-This project contains some simple and classic parser implementations. It also contains example for 
-parser api usage.
+This project contains some simple and classic NLP task demos. It also contains example from popular usages.
